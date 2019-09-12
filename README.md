@@ -1,2 +1,2 @@
 # Capture-the-flag
-Shows different approaches in findiing a flag
+Shows different approaches in finding a flag
