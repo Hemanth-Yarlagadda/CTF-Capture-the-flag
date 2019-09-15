@@ -1,15 +1,12 @@
 # Best tools for Steganography 
 
 Xiao Steganography<br />
-
 Image Steganography<br />
-
-Image Steganography<br />
--Steghide
--Crypture
--SteganographX Plus
--rSteg
--Binwalk
--SSuite Picsel
--OpenStego
--Hide’N’Send
+Steghide<br />
+Crypture<br />
+SteganographX Plus<br />
+rSteg<br />
+Binwalk<br />
+SSuite Picsel<br />
+OpenStego<br />
+Hide’N’Send<br />
