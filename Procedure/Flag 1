@@ -1,0 +1,6 @@
+Flag 1:
+1.	First flag was found in the pdf file<br />
+2.	Ran the file through pdf-parser and pdf info<br />
+3.	Found compressed data in the pdf file<br />
+4.	Made use of binwalk to extract the compressed data<br />
+5.	It is of javascript. I modified it, we get the flag<br />
