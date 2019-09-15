@@ -4,6 +4,6 @@ Found compressed data in the pdf file
 Made use of binwalk to extract the compressed data
 It is of javascript. I modified it, we get the flag
 
-[JS code:] (https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/blob/master/Procedure/flag1.jpg)
+![JS code:] (https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/blob/master/Procedure/flag1.jpg)
 
 flag{Welc0m3_to_PDFs_d1d_U_H@v3_Fun}
