@@ -1,1 +1,1 @@
-Make sure to diisable your antivirus as it might consider these as potential threats.
+Make sure to disable your antivirus as it might consider these as potential threats.
