@@ -1,6 +1,5 @@
-For this [file](https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/tree/master/Procedure/Flag%203) too tried different extensions<br />
-
-Added .apk extension to this file<br />
+For this [file](https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/tree/master/Procedure/Flag%203) too tried the file command<br />
+It turned out to be zip archive. Looking into the extracted data I added .apk extension.<br />
 
 Made use of apktool which decoded the apk file<br />
 
