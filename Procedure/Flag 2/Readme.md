@@ -1,6 +1,6 @@
-Gone through the [file](https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/blob/master/CTF%20files/f2.xxxx) and changed it to different extensions. In the end changed it to .doc extension.<br />
+Gone through the [file](https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/blob/master/CTF%20files/f2.xxxx) and used the file command to know the type of the file.<br />
 
-Now the word document, gone through the files in the word folder and extracted them.<br />
+It turned out to be zip archive. Gone through the files in the word folder and extracted them.<br />
 
 Found a file named core.xml<br />
 
