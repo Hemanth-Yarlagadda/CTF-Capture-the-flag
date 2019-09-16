@@ -1,4 +1,4 @@
-Gone throught the file and changed it to different extensions. In the end changed it to .doc extension.<br />
+Gone through the file and changed it to different extensions. In the end changed it to .doc extension.<br />
 Now the word document, gone through the files in the word folder and extract them.<br />
 Found a file named core.xml<br />
 ![base 64 flag](https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/blob/master/Procedure/Flag%202/flag2.jpg)<br />
