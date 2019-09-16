@@ -1,5 +1,6 @@
 First flag was found in the [Flag 1](https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/blob/master/CTF%20files/f1.xxxx)<br />
-Changed the extension to .pdf<br />
+Used the file command to know the type of the file<br />
+It turned out to be Pdf. Changed the extension to .pdf<br />
 Ran the file through pdf-parser and pdf info<br />
 Found compressed data in the pdf file<br />
 Made use of binwalk to extract the compressed data<br />
