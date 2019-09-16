@@ -1,4 +1,4 @@
-Go through the following flags
+Go through the following flags:
 
 [Flag 1 ](https://github.com/Hemanth-Yarlagadda/CTF-Capture-the-flag-/tree/master/Procedure/Flag%201)
 
